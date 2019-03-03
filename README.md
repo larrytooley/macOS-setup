@@ -1,6 +1,9 @@
 # mac OS Dev Setup
 
-## Change 
+## Change Computer Name
+
+* System Preferences... > Sharing
+* Update Computer Name
 
 ## Escape Key Mapping
 
@@ -23,7 +26,7 @@
 
 ## Install Homebrew
 
-* Follow instructions at the [Hitchhiker's Guide to Pytho](https://docs.python-guide.org/starting/install3/osx/)
+* `https://brew.sh/`
 
 * This will take some time as Homebrew needs Command Line Tools for XCode.
 
@@ -33,27 +36,31 @@
 
 ## Install Python
 
-* `brew install python`
+* Follow instructions at the [Hitchhiker's Guide to Python](https://docs.python-guide.org/starting/install3/osx/)
 
+* `brew install python`
 
 
 ## Install Visual Studio Code
 
 * https://code.visualstudio.com/docs/setup/mac
 * Turn on VIM keybindings
-  * command k command m
+
   * Install Vim extension
 
 * Install Python extention
 
 ## Install Postress.app
 
+* https://postgresapp.com/downloads.html
 
 ## Install Alfred
 
 * https://www.alfredapp.com/
 
 ## Install Chrome
+
+* https://www.google.com/chrome/
 
 ## Install Firefox
 
