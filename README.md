@@ -66,3 +66,6 @@
 
 * https://www.mozilla.org/en-US/firefox/new/
 * Set Firefox as default web browser
+
+## Create SSh Key
+https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
